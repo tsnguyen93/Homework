@@ -1,0 +1,108 @@
+body{
+  margin: 0px;
+}
+#CompanyTitle{
+  color: white;
+  background-color: grey;
+  text-indent: 100px;
+  font-weight: bold;
+  padding: 30px;
+  font-size: 15pt;
+}
+
+#Content{
+  background-color: #01A9DB;
+  width: 100%;
+  height: 250px;
+}
+
+#Content2{
+  background-color: #01A9DB;
+  width: 100%;
+  height: 250px;
+}
+
+#About{
+  font-size: 15pt;
+  background-color: blue;
+  width: 20%;
+  height: 225px;
+  color: white;
+  font-weight: bold;
+  float: left;
+  display: table-cell;
+  vertical-align: bottom;
+  border: 10px solid #01A9DB;
+  border-left-width: 200px; 
+}
+
+#Products{
+  font-size: 15pt;
+  background-color: red;
+  width: 20%;
+  height: 225px;
+  color: white;
+  font-weight: bold;
+  float: left;
+  border: 10px solid #01A9DB
+}
+
+#Who{
+  font-size: 15pt;
+  background-color: orange;
+  width: 20%;
+  height: 225px;
+  color: white;
+  font-weight: bold;
+  float: left;
+  border: 10px solid #01A9DB;
+}
+
+#Map{
+  font-size: 15pt;
+  background-color: purple;
+  width: 20%;
+  height: 225px;
+  color: white;
+  font-weight: bold;
+  float: left;
+  display: table-cell;
+  vertical-align: bottom;
+  border: 10px solid #01A9DB;
+  border-left-width: 200px; 
+}
+
+#Contact{
+  font-size: 15pt;
+  background-color: pink;
+  width: 20%;
+  height: 225px;
+  color: white;
+  font-weight: bold;
+  float: left;
+  border: 10px solid #01A9DB
+}
+
+#Feedback{
+  font-size: 15pt;
+  background-color: green;
+  width: 20%;
+  height: 225px;
+  color: white;
+  font-weight: bold;
+  float: left;
+  border: 10px solid #01A9DB;
+}
+
+#Footer{
+  color: white;
+  background-color: grey;
+  text-align: center;
+  font-weight: bold;
+  padding: 30px;
+  font-size: 15pt;
+}
+
+p{
+  margin: 180px 0 0 5%; /*Goes clockwise*/
+}

@@ -1,0 +1,71 @@
+body{
+  margin: 0;
+}
+
+#header{
+  Background-color: #BDBDBD;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 20pt;
+  padding: 25px;
+  border: 10px solid navy;
+}
+
+#Navigation{
+  background-color: pink;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 20pt;
+  border: solid navy;
+  border-width: 0px 10px 0px 10px;
+}
+#MainContent{
+  background-color: green;
+  text-align: center;
+  color: white;
+  font-size: 20pt;
+  font-weight: bold;
+  padding: 100px;
+  box-sizing: border-box;
+  border: 10px solid navy;
+  border-bottom: none;
+}
+
+#Sidebar{
+  background-color: #58D3F7;
+  text-align:center;
+  color: white;
+  text-weight: bold;
+  padding: 50px;
+  border: 10px solid navy;
+  box-sizing: border-box;
+  font-size: 20pt;
+  border-bottom: none;
+}
+
+#Footer{
+  background-color: blue;
+  color: white;
+  text-weight: bold;
+  text-size: 20pt;
+  text-align: center;
+  border: 10px solid navy;
+  padding: 20px;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 20pt;
+}
+
+.Article{
+  color: white;
+  text-align: center;
+  background-color: blue;
+  font-size: 20pt;
+  font-weight: bold;
+  padding: 30px;
+  width: 91%;
+  display:block;
+  border: 10px solid green;
+}

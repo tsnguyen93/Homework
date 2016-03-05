@@ -1,0 +1,153 @@
+body{
+  margin: 0px;
+}
+#Windows{
+  color: white;
+  background-color: grey;
+  text-indent: 100px;
+  font-weight: bold;
+  padding: 30px;
+  font-size: 15pt;
+}
+
+#Content{
+  background-color: grey;
+  width: 100%;
+  height: 100px;
+}
+
+#Content2{
+  background-color: grey;
+  width: 100%;
+  height: 78px;
+}
+
+#Content3{
+  background-color: grey;
+  width: 100%;
+  height: 157px;
+}
+
+#Content4{
+  background-color: grey;
+  width: 100%;
+  height: 50px;
+}
+
+
+#Content5{
+  background-color: grey;
+  width: 100%;
+  height: 200px;
+}
+
+#About{
+  font-size: 15pt;
+  background-color: #BDBDBD;
+  width: 20%;
+  height: 150px;
+  color: white;
+  font-weight: bold;
+  float: left;
+  display: table-cell;
+  vertical-align: bottom;
+  border: 10px solid grey;
+  border-left-width: 200px; 
+  border-bottom: none;
+}
+
+.White{
+  font-size: 15pt;
+  background-color: #BDBDBD;
+  width: 20%;
+  height: 150px;
+  color: white;
+  font-weight: bold;
+  float: left;
+  border: 10px solid grey;
+  border-bottom: none;
+}
+
+.Dark{
+  font-size: 15pt;
+  background-color: #1C1C1C;
+  width: 20%;
+  height: 50px;
+  color: white;
+  font-weight: bold;
+  float: left;
+  border-left: 20px solid grey;
+  }
+
+#Map{
+  font-size: 15pt;
+  background-color: #1C1C1C;
+  width: 20%;
+  height: 50px;
+  color: white;
+  font-weight: bold;
+  float: left;
+  display: table-cell;
+  vertical-align: bottom;
+  border-left: 10px solid grey;
+  border-left-width: 200px; 
+}
+
+#Contact{
+  font-size: 15pt;
+  background-color: pink;
+  width: 20%;
+  height: 225px;
+  color: white;
+  font-weight: bold;
+  float: left;
+  border: 10px solid grey
+}
+
+#Feedback{
+  font-size: 15pt;
+  background-color: green;
+  width: 20%;
+  height: 225px;
+  color: white;
+  font-weight: bold;
+  float: left;
+  border: 10px solid grey;
+}
+
+#Footer{
+  color: white;
+  background-color: grey;
+  text-align: center;
+  font-weight: bold;
+  padding: 30px;
+  font-size: 15pt;
+}
+
+#Test{
+  font-size: 10pt;
+  background-color: #1C1C1C;
+  width: 20%;
+  height: 25px;
+  color: white;
+  font-weight: bold;
+  float: left;
+  vertical-align: bottom;
+  border-left: 10px solid grey;
+  border-left-width: 200px; 
+}
+
+.Dark2{
+  font-size: 10pt;
+  background-color: #1C1C1C;
+  width: 20%;
+  height: 25px;
+  color: white;
+  font-weight: bold;
+  float: left;
+  border-left: 20px solid grey; 
+}
+
+p{
+  margin: 10px 0 0 5%; /*Goes clockwise*/
+}
